@@ -111,5 +111,24 @@ ________________________________________________________________________________
 
 ## [Task 4] Rot
 
+### 1.	GUZ{a0j_lbh_xabj_E0G13}
+
+Using Cyber Chef.
+
+![image](https://user-images.githubusercontent.com/44063862/82731379-f907f880-9d38-11ea-83ba-ec962c8e58ab.png)
+
+**Flag: THM{n0w_you_know_R0T13}**
+
+### 2.	%w|L#_%cf0:d02=D@0#~%072>:=JN
+
+Using Cyber Chef.
+
+![image](https://user-images.githubusercontent.com/44063862/82731386-03c28d80-9d39-11ea-8d8f-8c7c8812f36a.png)
+
+**Flag: THM{R0T47_i5_also_ROT_family}**
+
+_________________________________________________________________________________________________________________________
+
+## [Task 5] Non-Alphabet
 
 **By _AdaniKamal_**
