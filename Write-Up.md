@@ -54,7 +54,35 @@ ________________________________________________________________________________
 
 ## [Task 2] Base
 
+### 1.	VEhNe1RoaXNfMTVfQmE1M182NH0=
+
+By using Cyber Chef. This is Base64.
+
+![image](https://user-images.githubusercontent.com/44063862/82730958-3919ac00-9d36-11ea-8547-01996ac2761c.png)
+
+**Flag: THM{This_15_Ba53_64}**
+
+### 2.	8geNnsfELjg8cxv8kdUyKWWq1BTvm83Wk
+
+By using Cyber Chef. This is Base58
+
+![image](https://user-images.githubusercontent.com/44063862/82730971-50589980-9d36-11ea-8881-224c10043b25.png)
+
+**Flag: THM{can_you_read_Base58}**
+
+### 3.	HBZUCRZRMY3E44SEJBGUUMZXNJDXURS2MFCUYNLZNJMXS2SVIZGWK===
+
+By using Cyber Chef. We need to use multiple base.
+
+Base32 – Base58 – Base64
+
+![image](https://user-images.githubusercontent.com/44063862/82730986-61a1a600-9d36-11ea-981f-3b27d21ad716.png)
+
+**Flag: THM{tr1pl3_base}**
+
 ## [Task 3] Number Conversion
+
+
 
 ## [Task 4] Rot
 
